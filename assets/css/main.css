@@ -1329,12 +1329,6 @@ i.home-product-item__like-icon-fill {
 
 /* Footer certificate */
 
-.footer__bottom-certificate {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 0;
-}
 
 .footer__bottom-certificate-link {
     text-decoration: none;
@@ -1347,10 +1341,6 @@ i.home-product-item__like-icon-fill {
 }
 
 .footer__bottom-copyright {
-    text-align: center;
-}
-
-.footer__bottom-copyright p {
     margin-bottom: 0;
     font-size: 1.4rem;
     color: #666;
@@ -1367,7 +1357,7 @@ i.home-product-item__like-icon-fill {
 }
 
 .footer__pay-item {
-    width: 63,3334px;
+    width: 33.3334%;
 }
 
 .footer__pay-img {
